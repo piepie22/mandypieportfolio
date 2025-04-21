@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mandypieportfolio/static/css/main.f855e6bc.css",
+    "main.js": "/mandypieportfolio/static/js/main.2e2b6fd1.js",
+    "static/js/453.03a0aadc.chunk.js": "/mandypieportfolio/static/js/453.03a0aadc.chunk.js",
+    "static/media/logo.svg": "/mandypieportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mandypieportfolio/index.html",
+    "main.f855e6bc.css.map": "/mandypieportfolio/static/css/main.f855e6bc.css.map",
+    "main.2e2b6fd1.js.map": "/mandypieportfolio/static/js/main.2e2b6fd1.js.map",
+    "453.03a0aadc.chunk.js.map": "/mandypieportfolio/static/js/453.03a0aadc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2e2b6fd1.js"
+  ]
+}
