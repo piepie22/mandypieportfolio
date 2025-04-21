@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mandypieportfolio/static/css/main.8d814a4e.css",
-    "main.js": "/mandypieportfolio/static/js/main.edf66365.js",
+    "main.css": "/mandypieportfolio/static/css/main.14a47e34.css",
+    "main.js": "/mandypieportfolio/static/js/main.eeb5abab.js",
     "static/js/453.03a0aadc.chunk.js": "/mandypieportfolio/static/js/453.03a0aadc.chunk.js",
     "static/media/fly.jpg": "/mandypieportfolio/static/media/fly.39198a76064abb830aae.jpg",
     "static/media/bubbly.jpg": "/mandypieportfolio/static/media/bubbly.e7c1dcb4007b1acb4905.jpg",
@@ -10,12 +10,12 @@
     "static/media/exercise.jpg": "/mandypieportfolio/static/media/exercise.6d8c69d60967bf70d2b5.jpg",
     "static/media/sips.jpg": "/mandypieportfolio/static/media/sips.ffc698995a5c62caf2a3.jpg",
     "index.html": "/mandypieportfolio/index.html",
-    "main.8d814a4e.css.map": "/mandypieportfolio/static/css/main.8d814a4e.css.map",
-    "main.edf66365.js.map": "/mandypieportfolio/static/js/main.edf66365.js.map",
+    "main.14a47e34.css.map": "/mandypieportfolio/static/css/main.14a47e34.css.map",
+    "main.eeb5abab.js.map": "/mandypieportfolio/static/js/main.eeb5abab.js.map",
     "453.03a0aadc.chunk.js.map": "/mandypieportfolio/static/js/453.03a0aadc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d814a4e.css",
-    "static/js/main.edf66365.js"
+    "static/css/main.14a47e34.css",
+    "static/js/main.eeb5abab.js"
   ]
 }
